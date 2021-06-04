@@ -32,7 +32,10 @@ Challenges
     Allow the user to also enter the state’s full name in upper, lower, or mixed case.
     Implement the program using data structures to avoid nested if statements.
 */
-
+/*
+ *  UCF COP3330 Summer 2021 Assignment 1 Solutions
+ *  Copyright 2021 first_name last_name
+ */
 import java.util.Scanner;
 
 public class ex20 {
